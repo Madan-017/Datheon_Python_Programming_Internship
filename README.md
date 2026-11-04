@@ -1,8 +1,8 @@
-# Hangman Game – Python Programming Internship
+# Hangman Game – Datheon Python Programming Internship
 
 ## 1. Project Overview
 
-Hangman is a terminal-based word guessing game developed using Python. The player must guess a randomly selected hidden English word, one letter at a time, within six incorrect attempts.
+Hangman is a terminal-based word guessing game developed using Python. The player attempts to guess a randomly selected hidden English word, one letter at a time, within six incorrect attempts.
 
 The game displays ASCII gallows art that changes whenever the player makes an incorrect guess.
 
@@ -33,20 +33,16 @@ Task-1-Hangman/
 ├── hangman.py
 ├── google-10000-english-no-swears.txt
 ├── README.md
-└── screenshots/
-    ├── game-start.png
-    ├── winning-screen.png
-    └── game-over.png
+└── requirements.txt
 ```
 
-## 5. How to Run the Project
+## 5. How to Run
 
 1. Install Python 3.
-2. Download or clone this project.
+2. Download or clone the project.
 3. Keep the English word list in the same folder as `hangman.py`.
 4. Open the project folder in VS Code.
-5. Open the terminal.
-6. Execute:
+5. Open the terminal and execute:
 
 ```bash
 python hangman.py
@@ -77,5 +73,3 @@ It provides an interactive terminal-based implementation of the classic Hangman 
 ## 9. Internship
 
 **Datheon – Python Programming Internship**
-
-**Task 1: Hangman Game**
